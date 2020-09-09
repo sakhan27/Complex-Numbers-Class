@@ -1,0 +1,27 @@
+Script started on Fri 03 Jul 2020 08:15:52 PM CDT
+[?1034hbash-4.2$ 
+bash-4.2$ 
+bash-4.2$ pwd
+/home/STCLOUDSTATE/vi4362xq/Project1
+bash-4.2$ 
+bash-4.2$ 
+bash-4.2$ g++ project1_task3.cpp newcomplex3.cpp[K[K[K[K[K2.cpp
+bash-4.2$ ./a.out
+Enter the first complex: real_part imaginary_part
+3 5
+Enter the second complex: real_part imaginary_part
+2 3
+The two complex numbers entered are
+c1 = 3 + 5i
+c2 = 2 + 3i
+
+The arithmetic operations on these two numbers: 
+c1 + c2 = 5 + 8i
+c1 - c2 = 1 + 2i
+c1 * c2 = -9 + 19i
+c1 / c2 = 1.62 + 0.08i
+bash-4.2$ 
+bash-4.2$ 
+bash-4.2$ exit
+
+Script done on Fri 03 Jul 2020 08:16:29 PM CDT

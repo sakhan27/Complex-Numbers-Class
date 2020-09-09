@@ -1,0 +1,20 @@
+Script started on Thu 02 Jul 2020 11:29:00 PM CDT
+]0;vi4362xq@ahscentos:~/CS301/Project1/Task2[?1034h[vi4362xq@ahscentos Task2]$ g++ project1_task2.cpp co[K[Knewcomplex1.cpp
+]0;vi4362xq@ahscentos:~/CS301/Project1/Task2[vi4362xq@ahscentos Task2]$ ..[K/a.out
+Enter the first complex: real_part imaginary_part
+3 5
+Enter the second complex: real_part imaginary_part
+2 3
+The two complex numbers entered are
+c1 = 3 + 5i
+c2 = 2 + 3i
+
+The arithmetic operations on these two numbers: 
+c1 + c2 = 5 + 8i
+c1 - c2 = 1 + 2i
+c1 * c2 = -9 + 19i
+c1 / c2 = 1.62 + 0.08i
+]0;vi4362xq@ahscentos:~/CS301/Project1/Task2[vi4362xq@ahscentos Task2]$ 
+]0;vi4362xq@ahscentos:~/CS301/Project1/Task2[vi4362xq@ahscentos Task2]$ exit
+
+Script done on Thu 02 Jul 2020 11:29:29 PM CDT

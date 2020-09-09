@@ -1,0 +1,15 @@
+Script started on Thu 02 Jul 2020 10:01:52 PM CDT
+]0;vi4362xq@ahscentos:~/CS301/Project1/Project1Task1[?1034h[vi4362xq@ahscentos Project1Task1]$ g++ project1_task1.cpp complex.cpp
+]0;vi4362xq@ahscentos:~/CS301/Project1/Project1Task1[vi4362xq@ahscentos Project1Task1]$ ./a.out
+The two complex numbers are: 
+Complex number1: 0 + 0i
+Complex number2: 10 + 5i
+The two complex numbers are: 
+Complex number1: 15 + 20i
+Complex number2: 10 + 5i
+]0;vi4362xq@ahscentos:~/CS301/Project1/Project1Task1[vi4362xq@ahscentos Project1Task1]$ 
+]0;vi4362xq@ahscentos:~/CS301/Project1/Project1Task1[vi4362xq@ahscentos Project1Task1]$ 
+]0;vi4362xq@ahscentos:~/CS301/Project1/Project1Task1[vi4362xq@ahscentos Project1Task1]$ 
+]0;vi4362xq@ahscentos:~/CS301/Project1/Project1Task1[vi4362xq@ahscentos Project1Task1]$ exit
+
+Script done on Thu 02 Jul 2020 10:02:20 PM CDT
